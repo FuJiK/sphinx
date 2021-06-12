@@ -6,6 +6,4 @@
 /etc
 /include
 /jupyter_execute
-/lib
-/make.bat
 /pyvenv.cfg
