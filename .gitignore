@@ -1,9 +1,3 @@
-/Makefile
-/Pipfile
-/Pipfile.lock
 /bin
-/drawio
-/etc
 /include
-/jupyter_execute
-/pyvenv.cfg
+/lib
