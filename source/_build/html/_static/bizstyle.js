@@ -36,6 +36,6 @@ $(window).resize(function(){
         $("li.nav-item-0 a").text("Top");
     }
     else {
-        $("li.nav-item-0 a").text("yellowfin_doc v0.9 ドキュメント");
+        $("li.nav-item-0 a").text("fujiken_doc v0.9 ドキュメント");
     }
 });

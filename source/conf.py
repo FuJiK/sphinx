@@ -17,9 +17,9 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'yellowfin_doc'
-copyright = '2021, nissho-ele'
-author = 'nissho-ele'
+project = 'fujiken_doc'
+copyright = '2021, fujiken'
+author = 'fujiken'
 
 # The full version, including alpha/beta/rc tags
 release = 'v0.9'
@@ -35,8 +35,11 @@ extensions = [
     'jupyter_sphinx',
     'sphinx.ext.mathjax',
     'sphinxcontrib.plantuml',
+    'sphinx.ext.todo',
 ]
 
+[extensions]
+todo_include_todos = True
 # setting of mathjax
 mathjax_config = {
     'TeX' : {
