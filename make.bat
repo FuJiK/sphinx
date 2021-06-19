@@ -25,6 +25,12 @@ if errorlevel 9009 (
 	exit /b 1
 )
 
+:html
+%SPHINXBUILD% -b html %SOURCEDIR% /mnt/c/Users/fujiokk/venv/sphinx/docs %SPHINXOPTS% %O%
+REM%SPHINXOPTS% %O%
+goto end
+REM sphinx-build -b html source docs
+
 %SPHINXBUILD% -M %1 %SOURCEDIR% %BUILDDIR% %SPHINXOPTS% %O%
 goto end
 

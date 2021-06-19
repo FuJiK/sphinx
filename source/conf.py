@@ -36,6 +36,7 @@ extensions = [
     'sphinx.ext.mathjax',
     'sphinxcontrib.plantuml',
     'sphinx.ext.todo',
+    'sphinx.ext.githubpages',
 ]
 
 [extensions]
