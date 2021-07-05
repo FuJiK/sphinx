@@ -1,0 +1,272 @@
+<?xml version="1.0"?>
+<ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta name="dtb:uid" content="unknown"/>
+    <meta name="dtb:depth" content="3"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>fujiken_doc</text>
+  </docTitle>
+  <navMap>    
+    <navPoint id="navPoint1" playOrder="1">
+      <navLabel>
+        <text>Welcome to my Studying anything documentations!</text>
+      </navLabel>
+      <content src="index.xhtml" />  
+      <navPoint id="navPoint2" playOrder="1">
+        <navLabel>
+          <text>Welcome to my Studying anything documentations!</text>
+        </navLabel>
+        <content src="index.xhtml" />  
+      </navPoint>
+      <navPoint id="navPoint3" playOrder="2">
+        <navLabel>
+          <text>はじめてのSphinx</text>
+        </navLabel>
+        <content src="hello.xhtml" />  
+      </navPoint>
+      <navPoint id="navPoint4" playOrder="3">
+        <navLabel>
+          <text>sampleを記述</text>
+        </navLabel>
+        <content src="sample.xhtml" />  
+        <navPoint id="navPoint5" playOrder="3">
+          <navLabel>
+            <text>sampleを記述</text>
+          </navLabel>
+          <content src="sample.xhtml" />  
+        </navPoint>
+        <navPoint id="navPoint6" playOrder="4">
+          <navLabel>
+            <text>Code</text>
+          </navLabel>
+          <content src="sample.xhtml#code" />  
+        </navPoint>
+        <navPoint id="navPoint7" playOrder="5">
+          <navLabel>
+            <text>PlantML</text>
+          </navLabel>
+          <content src="sample.xhtml#plantml" />  
+        </navPoint>
+        <navPoint id="navPoint8" playOrder="6">
+          <navLabel>
+            <text>Math</text>
+          </navLabel>
+          <content src="sample.xhtml#math" />  
+        </navPoint>
+        <navPoint id="navPoint9" playOrder="7">
+          <navLabel>
+            <text>Jupyter</text>
+          </navLabel>
+          <content src="sample.xhtml#jupyter" />  
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint10" playOrder="8">
+        <navLabel>
+          <text>段落</text>
+        </navLabel>
+        <content src="hierarchy.xhtml" />  
+        <navPoint id="navPoint11" playOrder="8">
+          <navLabel>
+            <text>段落</text>
+          </navLabel>
+          <content src="hierarchy.xhtml" />  
+        </navPoint>
+        <navPoint id="navPoint12" playOrder="9">
+          <navLabel>
+            <text>段落1</text>
+          </navLabel>
+          <content src="hierarchy.xhtml#id2" />  
+        </navPoint>
+        <navPoint id="navPoint13" playOrder="10">
+          <navLabel>
+            <text>段落2</text>
+          </navLabel>
+          <content src="hierarchy.xhtml#id3" />  
+        </navPoint>
+        <navPoint id="navPoint14" playOrder="11">
+          <navLabel>
+            <text>段落3</text>
+          </navLabel>
+          <content src="hierarchy.xhtml#id4" />  
+        </navPoint>
+        <navPoint id="navPoint15" playOrder="12">
+          <navLabel>
+            <text>段落4</text>
+          </navLabel>
+          <content src="hierarchy.xhtml#id5" />  
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint16" playOrder="13">
+        <navLabel>
+          <text>その他の機能</text>
+        </navLabel>
+        <content src="other.xhtml" />  
+        <navPoint id="navPoint17" playOrder="13">
+          <navLabel>
+            <text>その他の機能</text>
+          </navLabel>
+          <content src="other.xhtml" />  
+        </navPoint>
+        <navPoint id="navPoint18" playOrder="14">
+          <navLabel>
+            <text>テーブル</text>
+          </navLabel>
+          <content src="other.xhtml#id2" />  
+        </navPoint>
+        <navPoint id="navPoint19" playOrder="15">
+          <navLabel>
+            <text>脚注</text>
+          </navLabel>
+          <content src="other.xhtml#id3" />  
+        </navPoint>
+        <navPoint id="navPoint20" playOrder="16">
+          <navLabel>
+            <text>数式</text>
+          </navLabel>
+          <content src="other.xhtml#id6" />  
+        </navPoint>
+        <navPoint id="navPoint21" playOrder="17">
+          <navLabel>
+            <text>TODO</text>
+          </navLabel>
+          <content src="other.xhtml#todo" />  
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint22" playOrder="18">
+        <navLabel>
+          <text>TODO</text>
+        </navLabel>
+        <content src="#todo" />  
+      </navPoint>
+      <navPoint id="navPoint23" playOrder="19">
+        <navLabel>
+          <text>Image</text>
+        </navLabel>
+        <content src="#image" />  
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint24" playOrder="20">
+      <navLabel>
+        <text>Indices and tables</text>
+      </navLabel>
+      <content src="#indices-and-tables" />  
+    </navPoint>
+    <navPoint id="navPoint25" playOrder="21">
+      <navLabel>
+        <text>はじめてのSphinx</text>
+      </navLabel>
+      <content src="hello.xhtml" />  
+    </navPoint>
+    <navPoint id="navPoint26" playOrder="22">
+      <navLabel>
+        <text>sampleを記述</text>
+      </navLabel>
+      <content src="sample.xhtml" />  
+      <navPoint id="navPoint27" playOrder="22">
+        <navLabel>
+          <text>sampleを記述</text>
+        </navLabel>
+        <content src="sample.xhtml" />  
+      </navPoint>
+      <navPoint id="navPoint28" playOrder="23">
+        <navLabel>
+          <text>Code</text>
+        </navLabel>
+        <content src="sample.xhtml#code" />  
+      </navPoint>
+      <navPoint id="navPoint29" playOrder="24">
+        <navLabel>
+          <text>PlantML</text>
+        </navLabel>
+        <content src="sample.xhtml#plantml" />  
+      </navPoint>
+      <navPoint id="navPoint30" playOrder="25">
+        <navLabel>
+          <text>Math</text>
+        </navLabel>
+        <content src="sample.xhtml#math" />  
+      </navPoint>
+      <navPoint id="navPoint31" playOrder="26">
+        <navLabel>
+          <text>Jupyter</text>
+        </navLabel>
+        <content src="sample.xhtml#jupyter" />  
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint32" playOrder="27">
+      <navLabel>
+        <text>段落</text>
+      </navLabel>
+      <content src="hierarchy.xhtml" />  
+      <navPoint id="navPoint33" playOrder="27">
+        <navLabel>
+          <text>段落</text>
+        </navLabel>
+        <content src="hierarchy.xhtml" />  
+      </navPoint>
+      <navPoint id="navPoint34" playOrder="28">
+        <navLabel>
+          <text>段落1</text>
+        </navLabel>
+        <content src="hierarchy.xhtml#id2" />  
+      </navPoint>
+      <navPoint id="navPoint35" playOrder="29">
+        <navLabel>
+          <text>段落2</text>
+        </navLabel>
+        <content src="hierarchy.xhtml#id3" />  
+      </navPoint>
+      <navPoint id="navPoint36" playOrder="30">
+        <navLabel>
+          <text>段落3</text>
+        </navLabel>
+        <content src="hierarchy.xhtml#id4" />  
+      </navPoint>
+      <navPoint id="navPoint37" playOrder="31">
+        <navLabel>
+          <text>段落4</text>
+        </navLabel>
+        <content src="hierarchy.xhtml#id5" />  
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint38" playOrder="32">
+      <navLabel>
+        <text>その他の機能</text>
+      </navLabel>
+      <content src="other.xhtml" />  
+      <navPoint id="navPoint39" playOrder="32">
+        <navLabel>
+          <text>その他の機能</text>
+        </navLabel>
+        <content src="other.xhtml" />  
+      </navPoint>
+      <navPoint id="navPoint40" playOrder="33">
+        <navLabel>
+          <text>テーブル</text>
+        </navLabel>
+        <content src="other.xhtml#id2" />  
+      </navPoint>
+      <navPoint id="navPoint41" playOrder="34">
+        <navLabel>
+          <text>脚注</text>
+        </navLabel>
+        <content src="other.xhtml#id3" />  
+      </navPoint>
+      <navPoint id="navPoint42" playOrder="35">
+        <navLabel>
+          <text>数式</text>
+        </navLabel>
+        <content src="other.xhtml#id6" />  
+      </navPoint>
+      <navPoint id="navPoint43" playOrder="36">
+        <navLabel>
+          <text>TODO</text>
+        </navLabel>
+        <content src="other.xhtml#todo" />  
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

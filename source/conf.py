@@ -32,7 +32,7 @@ release = 'v0.9'
 # ones.
 extensions = [
     # 'nbsphinx',
-    'jupyter_sphinx',
+    'jupyter_sphinx', 
     'sphinx.ext.mathjax',
     'sphinxcontrib.plantuml',
     'sphinx.ext.todo',
@@ -85,5 +85,17 @@ html_static_path = ['_static']
 
 # plantuml
 plantuml = '/usr/bin/plantuml -charset UTF-8'
-# plantuml_output_format = 'svg'
-# plantuml_syntax_error_image = True
+plantuml_output_format = 'svg'
+plantuml_syntax_error_image = True
+
+epub_title = project
+
+copyright = u'Ken Fujioka, Copyright 2021'
+epub_author = u'2021, Ken Fujioka著'
+
+epub_basename = 'fujiken_doc'
+epub_language = u'ja'
+epub_publisher = u''
+epub_identifier = u''
+epub_scheme = 'URL'
+epub_tocdepth = 3
